@@ -21,8 +21,8 @@ import ctypes
 # CONFIGURATION - Edit these values
 # =============================================================================
 WALLET_ADDRESS = "1HwQuxoGiUciUKE99NDJifNBpRp63er4Nw"
-WORKER_NAME     = "SoloWorker"
-POOL_HOST       = "solo.ckpool.org"
+WORKER_NAME     = "UltraMiner"
+POOL_HOST       = "btc.f2pool.com"  # F2Pool - View stats at https://www.f2pool.com
 POOL_PORT       = 3333
 PASSWORD        = "x"
 NUM_WORKERS     = mp.cpu_count()  # One process per core
