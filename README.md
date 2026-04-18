@@ -67,12 +67,15 @@ PASSWORD = "x"
 
 ### Popular Mining Pools
 
-| Pool | Host | Port |
-|------|------|------|
-| Solo CKPool | solo.ckpool.org | 3333 |
-| Slush Pool | stratum+tcp://stratum.slushpool.com | 3333 |
-| F2Pool | stratum+tcp://btc.f2pool.com | 3333 |
-| AntPool | stratum+tcp://stratum.antpool.com | 3333 |
+| Pool | Host | Port | Dashboard URL |
+|------|------|------|---------------|
+| **F2Pool** (Recommended) | btc.f2pool.com | 3333 | https://www.f2pool.com |
+| AntPool | stratum.antpool.com | 3333 | https://www.antpool.com |
+| ViaBTC | btc.viabtc.com | 3333 | https://www.viabtc.com |
+| Foundry USA | btc.foundryusa.com | 3333 | https://foundrydigital.com |
+| Luxor | btc.luxor.tech | 3333 | https://luxor.tech |
+
+**Default Pool: F2Pool** - Best for viewing your mining stats with an excellent dashboard!
 
 ## 🎮 GPU Mining
 

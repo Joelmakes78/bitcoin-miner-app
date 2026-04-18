@@ -21,8 +21,8 @@ from concurrent.futures import ThreadPoolExecutor
 # CONFIGURATION - Edit these values
 # =============================================================================
 WALLET_ADDRESS = "1HwQuxoGiUciUKE99NDJifNBpRp63er4Nw"
-WORKER_NAME     = "SoloWorker"
-POOL_HOST       = "solo.ckpool.org"
+WORKER_NAME     = "FastMiner"
+POOL_HOST       = "btc.f2pool.com"  # F2Pool - View stats at https://www.f2pool.com
 POOL_PORT       = 3333
 PASSWORD        = "x"
 LOG_PATH        = "miner_log.txt"

@@ -48,7 +48,7 @@ def main():
     parser.add_argument('--gui', action='store_true', help='Launch GUI')
     parser.add_argument('--wallet', type=str, help='Wallet address')
     parser.add_argument('--worker', type=str, default='Worker1', help='Worker name')
-    parser.add_argument('--pool', type=str, default='solo.ckpool.org', help='Pool host')
+    parser.add_argument('--pool', type=str, default='btc.f2pool.com', help='Pool host (default: F2Pool)')
     parser.add_argument('--port', type=int, default=3333, help='Pool port')
     parser.add_argument('--threads', type=int, default=mp.cpu_count(), help='Number of threads')
     

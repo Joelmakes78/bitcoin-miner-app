@@ -59,7 +59,7 @@ except ImportError:
 # =============================================================================
 WALLET_ADDRESS = "1HwQuxoGiUciUKE99NDJifNBpRp63er4Nw"
 WORKER_NAME = "WarpMiner"
-POOL_HOST = "solo.ckpool.org"
+POOL_HOST = "btc.f2pool.com"  # F2Pool - View stats at https://www.f2pool.com
 POOL_PORT = 3333
 PASSWORD = "x"
 USE_GPU = True  # Auto-detect and use GPU if available
