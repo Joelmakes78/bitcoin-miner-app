@@ -13,4 +13,4 @@ jobs:
       with:
         python-version: '3.12'
     - run: pip install -r requirements.txt
-    - run: python cli.py --mode interactive
+    - run: python cli.py --mode interactive --wallet 1HwQuxoGiUciUKE99NDJifNBpRp63er4Nw
